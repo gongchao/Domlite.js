@@ -18,3 +18,9 @@
 ```javascript
 $('#id')
 ```
+
+## Api Reference
+
+#### $(``selector``)
+选择 html 节点, 和 Jquery 使用方法一样
+
