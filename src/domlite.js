@@ -33,6 +33,26 @@
         }
 
         /**
+         * 设置html
+         * @param html
+         * @returns {*}
+         */
+        html(html) {
+            this.selector[0].innerHTML = html;
+            return this;
+        }
+
+        /**
+         * 设置text
+         * @param text
+         * @returns {Domlite}
+         */
+        text(text) {
+            this.selector[0].innerText = text;
+            return this;
+        }
+
+        /**
          * 返回当前元素的坐标
          * @returns {{top, right, bottom, left, width, height}}
          */

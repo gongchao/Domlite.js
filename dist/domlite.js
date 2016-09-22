@@ -55,6 +55,32 @@ function _classCallCheck(instance, Constructor) {
             }
 
             /**
+             * 设置html
+             * @param html
+             * @returns {*}
+             */
+
+        }, {
+            key: 'html',
+            value: function html(_html) {
+                this.selector[0].innerHTML = _html;
+                return this;
+            }
+
+            /**
+             * 设置text
+             * @param text
+             * @returns {Domlite}
+             */
+
+        }, {
+            key: 'text',
+            value: function text(_text) {
+                this.selector[0].innerText = _text;
+                return this;
+            }
+
+            /**
              * 返回当前元素的坐标
              * @returns {{top, right, bottom, left, width, height}}
              */
