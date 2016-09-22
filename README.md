@@ -7,7 +7,14 @@
 # domlite.js
 没错! ``domlite.js`` 与 Jquery 相似的使用方法, 让你 2 分钟上手!
 
-使用方法:
+domlite.js 仅仅是对现代浏览器的 dom 封装, 最佳的使用平台 APP、WAP和WeChat端。
+
+这个项目刚刚建立, 还不成熟, 你可以在此基础进行修改。
+
+若有疑问可以在 [issues](https://github.com/gongchao/Domlite.js/issues) 进行提问。
+
+
+## 使用方法
 
 引入 domlite
 ```html
