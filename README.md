@@ -27,6 +27,9 @@ $('#id')
 ### .find(``selector``)
 查询正在处理的后代元素
 
+### .eq(``num``)
+选择第 ``num`` 个元素
+
 ### .parent()
 查询正在处理元素的父级元素
 
@@ -42,10 +45,51 @@ $('#id')
 ### .offset()
 返回当前元素的坐标
 
+- top
+- right
+- bottom
+- left
+- width
+- height
+
+
 ### .attr()
 查询或设置元素的属性值
 
 ### .css()
 查询或设置元素的样式
+
+### .addClass(``className``)
+添加样式类
+
+### .removeClass(``className``)
+删除样式类
+
+### .hasClass(``className``)
+查询是否包含样式类
+
+### .copy()
+拷贝一份正在处理的元素
+
+### $.create(``html``)
+创建 html 节点
+
+### .append(``html``)
+将 html 插入正在处理元素的内部结尾插入
+
+### .preend(``html``)
+将 html 插入正在处理元素的内部开头插入
+
+### .after(``html``)
+将 html 插入正在处理元素的后边插入
+
+### .before(``html``)
+将 html 插入正在处理元素的前边插入
+
+### replace(``html``)
+将 html 与正在处理元素进行替换
+
+### .remove()
+删除正在处理的元素
 
 

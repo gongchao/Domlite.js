@@ -10,6 +10,11 @@
             return this;
         }
 
+        find(selector) {
+            this.selector = this.selector[0].querySelectorAll(selector);
+            return this;
+        }
+
         eq(id) {
             this.selector = [this.selector[id]];
             return this;
