@@ -1,25 +1,11 @@
 {
-  "name": "domlite.js",
+  "name": "domlite",
   "version": "1.0.0",
-  "description": "<p>     <a href=\"https://github.com/JSsparrow/Domlite.js\">         <img src=\"./assets/logo.png\" alt=\"Domlite.js\" width=\"400\">     </a> </p>",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gongchao/Domlite.js.git"
-  },
   "author": "gongchao",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gongchao/Domlite.js/issues"
-  },
-  "homepage": "https://github.com/gongchao/Domlite.js#readme",
-  "dependencies": {
-    "babel-core": "^6.14.0",
-    "babel-loader": "^6.2.5",
-    "babel-preset-es2015": "^6.14.0",
-    "webpack": "^1.13.2"
-  }
+  "license": "ISC"
 }
