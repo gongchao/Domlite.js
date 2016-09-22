@@ -31,7 +31,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="670">
-                <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,8 +42,8 @@
       <file leaf-file-name="domlite.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/domlite.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="243">
+              <caret line="133" column="16" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="16" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -150,12 +150,12 @@
       <option name="presentableId" value="Default" />
       <updated>1474520614257</updated>
       <workItem from="1474520615362" duration="131000" />
-      <workItem from="1474520900265" duration="697000" />
+      <workItem from="1474520900265" duration="1009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="828000" />
+    <option name="totallyTimeSpent" value="1140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -225,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/domlite.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="243">
+          <caret line="133" column="16" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="16" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -237,7 +237,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="670">
-            <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
